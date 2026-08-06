@@ -1,0 +1,7 @@
+No,Title,Antenna Info,Frequency Band,Central Frequency (GHz),Max Gain (dBi),Bandwidth (%),Polarization,ARBW (%),Radiation Efficiency (%)
+1,Example Antenna A,Microstrip antenna,S,2.40,7.50,15.0,RHCP,12.0,92.0
+2,Example Antenna B,Patch antenna,S,2.25,6.80,22.5,Linear,Not found.,88.5
+3,Example Antenna C,Patch array,"S, X",2.20/8.40,6.10/11.30,8.0/3.5,RHCP,5.0,Not found.
+4,Example Antenna D,Patch,S,2.45,8.20,30.0,RHCP,25.0,95.0
+5,Example Antenna E,Monopole,S,2.10,4.50,9.0,Linear,Not found.,85.0
+6,Example Antenna F,Array,S,2.35,7.90,18.0,RHCP,14.0,Not found.

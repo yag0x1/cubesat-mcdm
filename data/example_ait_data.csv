@@ -1,0 +1,7 @@
+No,Title,Dimensions (mm),Weight (g),Target CubeSat Size,Substrate Material,Fabrication Method,Integration Strategy,Deployment Mechanism,Environmental Qualification Tests,Flight Heritage Mission
+1,Example Antenna A,80 x 80 x 3.2,45,1U,RT/duroid 5880,Standard PCB etching,Body-mounted on exterior panel,None.,Vibration and TVAC tested,Not found.
+2,Example Antenna B,70 x 70 x 2.0,Not found.,1U,FR4,Photolithography,Body-mounted,None.,Not found.,Not found.
+3,Example Antenna C,90 x 90 x 12,60,3U,Rogers 4003C,Multilayer lamination,Stacked feed network,None.,Thermal cycling,Not found.
+4,Example Antenna D,100 x 100,Not found.,1U,Rogers 5880,Multilayer with air gap,Body-mounted,None.,Not found.,Not found.
+5,Example Antenna E,50 x 50 x 1.6,20,1U,FR4,Standard PCB etching,Body-mounted,None.,Not found.,Not found.
+6,Example Antenna F,100 x 100 x 11,Not found.,1U,RT/duroid 5880,Multilayer lamination with spacers,Body-mounted,None.,Not found.,Not found.
